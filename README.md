@@ -17,6 +17,21 @@
 
 ###
 
+<h1 align="left">Contract</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/phattaphon-tae/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="phattaphon.tae@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <h1 align="left">Skill</h1>
 
 ###
