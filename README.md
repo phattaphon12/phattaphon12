@@ -3,7 +3,19 @@
 </div>
 
 ###
+# Hi there 👋 I'm Phattaphon Taengngam
 
+**A passionate IoT and Information System Engineering student at King Mongkut's Institute of Technology Ladkrabang (KMITL).**
+
+I'm currently focused on developing the intersection of physical and digital worlds, with a strong interest in:
+
+* **Internet of Things (IoT) Systems:** Designing and implementing smart systems and connected devices.
+* **Programming:** Building applications to support IoT infrastructure.
+* **Web Development:** Creating responsive and functional interfaces.
+* **UX/UI Design:** Learning to craft intuitive and user-centered experiences.
+
+Let's connect and build something innovative!
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phattaphon12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phattaphon12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
