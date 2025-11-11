@@ -130,3 +130,17 @@ Let's connect and build something innovative!
 </div>
 
 ###
+
+###
+
+<img src="https://raw.githubusercontent.com/phattaphon12/phattaphon12/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phattaphon12/phattaphon12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phattaphon12/phattaphon12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phattaphon12/phattaphon12/output/pacman-contribution-graph.svg">
+</picture>
+
+###
